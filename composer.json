@@ -1,0 +1,7 @@
+{
+  "name": "smartsenderhq/placeholder",
+  "description": "Placeholder package reserving the smartsenderhq vendor namespace on Packagist.",
+  "type": "metapackage",
+  "license": "proprietary",
+  "homepage": "https://smartsender.com"
+}
